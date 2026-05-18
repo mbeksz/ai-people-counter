@@ -64,3 +64,4 @@ cafeteria_counter/
 - Öğle / akşam vardiyası bazında otomatik istatistik ayrımı
 - Günlük ve saatlik yoğunluk raporlama
 - Stream bağlantı ve GPU sağlık kontrol araçları
+
