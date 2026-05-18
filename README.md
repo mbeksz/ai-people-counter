@@ -65,3 +65,4 @@ cafeteria_counter/
 - Günlük ve saatlik yoğunluk raporlama
 - Stream bağlantı ve GPU sağlık kontrol araçları
 
+
